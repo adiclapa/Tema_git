@@ -1,0 +1,1 @@
+//TODO trebuie adaugata functia main
